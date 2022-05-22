@@ -110,6 +110,6 @@ self.cars.append(c)
 
 <!-- Github Markdown -->
 
-_[x] Task 1
-_[x] Task 2
-\*[] Task 3
+- [x] Task 1
+- [x] Task 2
+- [] Task 3
